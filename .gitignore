@@ -1,0 +1,5 @@
+backend/venv/
+frontend/proyecto_flutter/build/
+frontend/proyecto_flutter/.dart_tool/
+frontend/proyecto_flutter/.idea/
+__pycache__/
